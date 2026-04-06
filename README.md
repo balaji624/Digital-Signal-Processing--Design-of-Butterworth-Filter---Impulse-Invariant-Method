@@ -1,4 +1,4 @@
-![IMG_20260406_193749](https://github.com/user-attachments/assets/ddd92dd0-c273-4585-809e-05a848b7f41f)# Digital-Signal-Processing--Design-of-Butterworth-Filter---Impulse-Invariant-Method
+![IMG_20260406_193853](https://github.com/user-attachments/assets/d42b217d-b9ff-445d-82f8-8143c1750f40)# Digital-Signal-Processing--Design-of-Butterworth-Filter---Impulse-Invariant-Method
 ## AIM:
 To design of 2nd order Low Pass Butterworth Filter using using Impulse Invariant Transformation 
 ## SOFTWARE REQUIRED: 
@@ -61,5 +61,6 @@ title('magnitude response butterworth LPF');
 
 
 ## RESULT:
-![IMG_20260406_193749](https://github.com/user-attachments/assets/fe1bf19e-267a-4189-8344-bda33f39b00c)
+![IMG_20260406_193853](https://github.com/user-attachments/assets/193361a3-199e-45ec-9cee-f7bd639039c3)
+
 
