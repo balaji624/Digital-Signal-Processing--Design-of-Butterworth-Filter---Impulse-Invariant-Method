@@ -1,4 +1,4 @@
-![IMG_20260406_193853](https://github.com/user-attachments/assets/d42b217d-b9ff-445d-82f8-8143c1750f40)# Digital-Signal-Processing--Design-of-Butterworth-Filter---Impulse-Invariant-Method
+## Digital-Signal-Processing--Design-of-Butterworth-Filter---Impulse-Invariant-Method
 ## AIM:
 To design of 2nd order Low Pass Butterworth Filter using using Impulse Invariant Transformation 
 ## SOFTWARE REQUIRED: 
